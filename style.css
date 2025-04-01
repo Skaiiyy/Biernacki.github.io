@@ -1,0 +1,174 @@
+
+@font-face {
+    font-family:"Helvetica Neue LT std 57";
+    src: url(./assets/fonts/Helvetica\ Neue\ LT\ Std\ 57\ Condensed.otf);
+}
+@font-face {
+    font-family:"Helvetica Neue LT std 65";
+    src: url(./assets/fonts/Helvetica\ Neue\ LT\ Std\ 65\ Medium.otf);
+}
+@font-face {
+    font-family:"Helvetica Neue LT Std 67";
+    src: url(./assets/fonts/Helvetica\ Neue\ LT\ Std\ 67\ Medium\ Condensed.otf);
+}
+@font-face {
+    font-family:"Helvetica Neue LT std 77";
+    src: url(./assets/fonts/Helvetica\ Neue\ LT\ Std\ 77\ Bold\ Condensed.otf);
+}
+ 
+
+h1{
+    font-family:"Helvetica Neue LT std 77";
+    color:#005461;
+    border-style:outset;
+    border-style:outset;
+    border-top-style:none;
+    border-left-style:none;
+    border-right-style:none;
+    border-width:2px;
+    border-color:#38e2fc;
+    text-align: center;
+    font-size:50px;
+    background-color: #f3b84b;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+main section#moi h2#moi  
+{
+    font-family:"Helvetica Neue LT std 77"; 
+    text-align: center;
+    color: #005461;
+    font-size:40px ;
+    
+    
+} 
+
+main section#moi p#moi {
+    font-family:"Helvetica Neue LT std 57" ;
+    color: #005461;
+    text-align: center;
+    font-size: 25px;
+}
+
+main section#Formation h2#Formation {
+    font-family: "Helvetica Neue LT std 77";
+    color: #005461;
+    font-size:40px ;
+    border-style: solid;
+    border-right-style:none;
+    border-top-style: none;
+    border-left-style: none;
+    border-bottom-width: 5px;
+    border-color: #ea9800;
+    font-weight: 300;
+    display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
+    
+}
+
+
+main section#Formation ul#Formation {
+    font-family: "Helvetica Neue LT std 57";
+    color: #005461;
+    font-size: 25px;
+}
+
+main section#expérience h2#expérience {
+    font-family: "Helvetica Neue LT std 77";
+    color: #005461;
+    font-size:40px ;
+    border-style: solid;
+    border-right-style:none;
+    border-top-style: none;
+    border-left-style: none;
+    border-bottom-width: 5px;
+    border-color: #ea9800;
+    font-weight: 300;
+    display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
+    
+}
+main section#expérience p#expérience {
+    font-family: "Helvetica Neue LT std 57";
+    color: #005461;
+    font-size: 25px;
+}
+main section#expérience ul#expérience {
+    font-family: "Helvetica Neue LT std 57";
+    color: #005461;
+    font-size: 25px;
+}
+main section#compétences h2#compétences {
+    font-family: "Helvetica Neue LT std 77";
+    color: #005461;
+    font-size:40px ;
+    border-bottom: 5px solid #ea9800;
+    font-weight: 300;
+    display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
+}
+main section#compétences ul#compétences {
+    font-family: "Helvetica Neue LT std 57";
+    color: #005461;
+    font-size: 25px;
+}
+main section#intérêts h2#intérêts {
+    font-family: "Helvetica Neue LT std 77";
+    color: #005461;
+    font-size:40px ;
+    font-weight: 300;
+    border-bottom: 5px solid #ea9800;
+    display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
+    
+}
+
+div img#Illustration {
+    width: 50%;
+    position: static;
+    
+}
+
+footer{
+    margin-right: -8px;
+    margin-left: -8px;
+    margin-bottom:-30px ;
+    background-color: #005461;
+    clear: both;
+}
+
+
+
+footer h3#contact {
+    font-family: "Helvetica Neue LT std 67 Medium Condensed";
+    font-size:30px ;
+    color: rgb(255, 255, 255);
+}
+
+footer ul#contact {
+    font-family: "Helvetica Neue LT std 67 Medium Condensed";
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+div#bordure{
+    margin : auto;
+    width : 65%;
+    float: left;
+}
+
+
+div#cote{
+    margin-right: 25px;
+    background-color: #ffffff;
+    float: left;
+    width: 30%;
+    height: 1650px;
+    border-right: rgb(172, 58, 58);
+}
